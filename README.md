@@ -1,3 +1,2 @@
-# Scrimba-JavaScript
-## JavaScript course from Scrimba 
-## link: https://scrimba.com/learn/learnjavascript 
+# Exercises and projects from the JavaScript course from scrimba.com
+## link to course: https://scrimba.com/learn/learnjavascript 
