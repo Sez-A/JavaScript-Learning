@@ -10,4 +10,10 @@ function decrement() {
     document.getElementById("count-el").innerText = count;
 }
 
+function save() {
+    let countWithDash = count + " - ";
+    let saveEl = document.getElementById("save-el");
+    saveEl.innerText += " " + countWithDash;
+}
+
 
