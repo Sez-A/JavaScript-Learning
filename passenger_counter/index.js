@@ -14,6 +14,7 @@ function save() {
     let countWithDash = count + " - ";
     let saveEl = document.getElementById("save-el");
     saveEl.textContent += countWithDash;
+    document.getElementById("count-el").textContent = count = 0;
 }
 
 
