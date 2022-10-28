@@ -1,20 +1,21 @@
 let count = 0;
+let countEl =  document.getElementById("count-el");
+let saveEl = document.getElementById("save-el");
 
 function increment() {
     count = count + 1;
-    document.getElementById("count-el").textContent = count;
+    countEl.textContent = count;
 }
 
 function decrement() {
     count--;
-    document.getElementById("count-el").textContent = count;
+    countEl.textContent = count;
 }
 
 function save() {
-    let countWithDash = count + " - ";
-    let saveEl = document.getElementById("save-el");
+    let countWithDash = count + " :: ";
     saveEl.textContent += countWithDash;
-    document.getElementById("count-el").textContent = count = 0;
+    countEl.textContent = count = 0;
 }
 
 
