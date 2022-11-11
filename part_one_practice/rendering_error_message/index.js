@@ -1,3 +1,3 @@
 function purchase() {
-    document.getElementById("error").textContent = "Something went wrong :( Please try again!"
+    document.getElementById("error").textContent = "Something went wrong, please try again!"
 }
