@@ -1,2 +1,3 @@
 # Exercises and projects from the JavaScript course from scrimba.com
-## link to course: https://scrimba.com/learn/learnjavascript 
+[Link to course:](https://scrimba.com/learn/learnjavascript)
+ 
