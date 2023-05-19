@@ -1,17 +1,11 @@
-# Scrimba JavaScript Course Repository
-This repository contains a collection of basic JavaScript code that I learned while following the Scrimba JavaScript course. The course, available on [Scrimba](https://scrimba.com), provided a comprehensive introduction to JavaScript programming.
+# Learning JavaScript Repository
 
-## Table of Contents
-- [Introduction](#Introduction)
-- [Course Overview](#Course-Overview)
+This repository is dedicated to my journey of learning JavaScript from Scrimba and SoftUni. It serves as a comprehensive resource containing packages for both the Scrimba course and SoftUni modules.
 
-## Introduction
-As part of my journey to learn JavaScript, I enrolled in the Scrimba JavaScript course. This repository serves as a record of my progress and a showcase of the fundamental concepts and skills I acquired during the course.
+# Scrimba Course Package
 
-## Course Overview
-The Scrimba JavaScript course is designed to provide beginners with a solid foundation in JavaScript programming. It covers a wide range of topics, including variables, data types, control flow, functions, arrays, objects, and more.
+The scrimba-course package within this repository includes all the materials, exercises, and projects related to the Scrimba JavaScript course. This course provides a hands-on approach to learning JavaScript, covering the fundamentals and diving into advanced concepts. By exploring this package, you will find valuable resources that accompany the Scrimba course, helping you grasp JavaScript concepts effectively.
 
-The course is interactive and hands-on, allowing learners to follow along with the instructor and practice their coding skills in real-time. The course instructor explains concepts clearly and provides practical examples to reinforce the learning experience.
+# SoftUni Modules Package
 
-I highly recommend the Scrimba JavaScript course to anyone looking to start their journey in JavaScript programming. You can access the course [here](https://scrimba.com/learn/learnjavascript) and begin your learning journey.
- 
+The softuni-modules package within this repository is dedicated to organizing the modules I'm learning from SoftUni. SoftUni offers a comprehensive curriculum for JavaScript development, covering various topics and practical exercises. Within this package, you will find folders for each module, containing code examples, exercises, and projects related to that specific topic. It's a structured approach to learning JavaScript that ensures a progressive and thorough understanding of the language.
